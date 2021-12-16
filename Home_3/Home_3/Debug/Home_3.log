@@ -1,0 +1,8 @@
+﻿  Home_3.cpp
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(54,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(129,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(168,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(173,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iRU\Desktop\HOME_3\Home_3\Home_3\Home_3.cpp(283,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Home_3.vcxproj -> C:\Users\iRU\Desktop\HOME_3\Home_3\Debug\Home_3.exe

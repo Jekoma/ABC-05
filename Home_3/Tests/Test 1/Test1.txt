@@ -1,0 +1,317 @@
+Start of the Programm (without input arguments)
+
+Input the Height of the island (starts from 1):
+5
+Input the Width of the island (starts from 1):
+5
+
+Island:
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+Enter the number of Pirates (starts from 1):
+15
+
+Number of free Pirates = 15
+Enter the number of Pirates, from what the group 1 will be organized: (from 1 to 15)
+15
+
+Groups of Pirates are confirmed:
+15 Starting the program
+
+
+Group 1 get new quest in the item 0
+Group 1 Begin to search the item 0
+
+ Group 1 stop to search the item 0
+Island:
+_ 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 1
+Group 1 Begin to search the item 1
+
+ Group 1 stop to search the item 1
+Island:
+_ _ 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 2
+Group 1 Begin to search the item 2
+
+ Group 1 stop to search the item 2
+Island:
+_ _ _ 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 3
+Group 1 Begin to search the item 3
+
+ Group 1 stop to search the item 3
+Island:
+_ _ _ _ 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 4
+Group 1 Begin to search the item 4
+
+ Group 1 stop to search the item 4
+Island:
+_ _ _ _ _
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 5
+Group 1 Begin to search the item 5
+
+ Group 1 stop to search the item 5
+Island:
+_ _ _ _ _
+_ 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 6
+Group 1 Begin to search the item 6
+
+ Group 1 stop to search the item 6
+Island:
+_ _ _ _ _
+_ _ 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 7
+Group 1 Begin to search the item 7
+
+ Group 1 stop to search the item 7
+Island:
+_ _ _ _ _
+_ _ _ 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 8
+Group 1 Begin to search the item 8
+
+ Group 1 stop to search the item 8
+Island:
+_ _ _ _ _
+_ _ _ _ 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 9
+Group 1 Begin to search the item 9
+
+ Group 1 stop to search the item 9
+Island:
+_ _ _ _ _
+_ _ _ _ _
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 10
+Group 1 Begin to search the item 10
+
+ Group 1 stop to search the item 10
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 11
+Group 1 Begin to search the item 11
+
+ Group 1 stop to search the item 11
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 12
+Group 1 Begin to search the item 12
+
+ Group 1 stop to search the item 12
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 13
+Group 1 Begin to search the item 13
+
+ Group 1 stop to search the item 13
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ 0
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 14
+Group 1 Begin to search the item 14
+
+ Group 1 stop to search the item 14
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+0 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 15
+Group 1 Begin to search the item 15
+
+ Group 1 stop to search the item 15
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ 0 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 16
+Group 1 Begin to search the item 16
+
+ Group 1 stop to search the item 16
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ 0 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 17
+Group 1 Begin to search the item 17
+
+ Group 1 stop to search the item 17
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ 0 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 18
+Group 1 Begin to search the item 18
+
+ Group 1 stop to search the item 18
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ 0
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 19
+Group 1 Begin to search the item 19
+
+ Group 1 stop to search the item 19
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+0 0 0 0 0
+
+
+Group 1 get new quest in the item 20
+Group 1 Begin to search the item 20
+
+ Group 1 stop to search the item 20
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ 0 0 0 0
+
+
+Group 1 get new quest in the item 21
+Group 1 Begin to search the item 21
+
+ Group 1 stop to search the item 21
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ 0 0 0
+
+
+Group 1 get new quest in the item 22
+Group 1 Begin to search the item 22
+
+ Group 1 stop to search the item 22
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ 0 0
+
+
+Group 1 get new quest in the item 23
+Group 1 Begin to search the item 23
+
+ Group 1 stop to search the item 23
+The TREASURE was founded!!!
+Island:
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ _ _
+_ _ _ X 0
+
+Well done
+The questions are over!
+TREASURE has been found by the group 1
+Program ENDS here

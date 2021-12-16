@@ -1,0 +1,69 @@
+C:\Users\iRU\Desktop\HOME_3\Home_3\Debug>Home_3 3 3
+Start of the Programm (with input arguments)
+
+You are already choose the Height of the island : 3
+You are already choose the Width of the island : 3
+
+Island:
+0 0 0
+0 0 0
+0 0 0
+
+Enter the number of Pirates (starts from 1):
+3
+
+Number of free Pirates = 3
+Enter the number of Pirates, from what the group 1 will be organized: (from 1 to 3)
+2
+Number of free Pirates = 1
+Enter the number of Pirates, from what the group 2 will be organized: (from 1 to 1)
+1
+
+Groups of Pirates are confirmed:
+2 1 Starting the program
+
+
+Group 1 get new quest in the item 0
+
+Group 2 get new quest in the item 1
+Group 1 Begin to search the item 0
+Group 2 Begin to search the item 1
+
+ Group 1 stop to search the item 0
+Island:
+_ 0 0
+0 0 0
+0 0 0
+
+
+Group 1 get new quest in the item 2
+Group 1 Begin to search the item 2
+
+ Group 1 stop to search the item 2
+Island:
+_ 0 _
+0 0 0
+0 0 0
+
+
+Group 1 get new quest in the item 3
+Group 1 Begin to search the item 3
+
+ Group 2 stop to search the item 1
+The TREASURE was founded!!!
+Island:
+_ X _
+0 0 0
+0 0 0
+
+
+ Group 1 stop to search the item 3
+Island:
+_ X _
+_ 0 0
+0 0 0
+
+Well done
+The questions are over!
+TREASURE has been found by the group 2
+Program ENDS here

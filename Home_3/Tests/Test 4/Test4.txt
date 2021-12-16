@@ -1,0 +1,5 @@
+C:\Users\iRU\Desktop\HOME_3\Home_3\Debug>Home_3 0 0
+Start of the Programm (with input arguments)
+
+Incorrect input, Program will end
+try again!
